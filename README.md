@@ -13,7 +13,7 @@ A su vez modificar las consultas para que a a la aplicacion web le lleguen los d
 En lo posible normalizar la tabla. 
 
 Si con esto no alcanza se puede pensar en agregar un motor de busqueda ,indexando los datos, (Elasticsearch, solr).
-Con estos moteres de busquedas vos decis que datos queres indexar podes hacer parseadores y las consultas son mucho mas rapido.
+Con estos motores de busquedas vos decis que datos queres indexar podes hacer parseadores y las consultas son mucho mas rapido.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
